@@ -1,2 +1,2 @@
-# rvm-onnx-convert
-Convert RobustVideoMatting to static ONNX file for inference engines.
+# mattematte
+mattematte is a small inference toolbox for awesome DL-Based matting methods, can easily install with pip.
