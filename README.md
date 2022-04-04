@@ -1,2 +1,2 @@
-# mattematte
-mattematte is a small inference toolbox for awesome DL-Based matting methods, can easily install with pip. (coming soon ~)
+# 👹 mattematte
+A c++/python toolbox for matting, segmentation, super resolution and colorization with MNN, ONNXRuntime and Vulkan. The C++ code of mattematte is heavily based on **[lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit)** and it aims to provide a optimized version with Vulkan to accelerate the pre or post processes of matting, segmentation, super resolution and colorization.
